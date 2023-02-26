@@ -1,0 +1,25 @@
+body{
+	margin:10;
+	text-transform: none;
+  background-color: PaleVioletPink;
+  color:White;
+}
+
+h1{
+	color: Pink;
+	font-size: 2em;
+	font-family: Lucida Handwriting, cursive;
+}
+
+h2{
+	font-family: Arial, sans-serif;
+}
+
+li{
+	font-family: Arial, sans-serif;
+}
+p{
+	color: maroon;
+  background-color: white;
+  font-family: Lucida Handwriting, cursive;
+}
