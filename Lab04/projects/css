@@ -1,0 +1,42 @@
+body{
+  background-color: Blue;
+  Margin: 1em;
+  
+}
+background-image{
+  
+}
+  
+}
+h1{
+  font-family: Arial;
+  Color: White;
+  Background-color: 
+   Gray;
+  Text-Align:center;
+}
+h2{
+  font-family: Verdana;
+  color: White;
+  background-color: Gray;
+  text-align:center;
+}
+h4{
+  color:white;
+}
+img{
+  border: 6px solid;
+  border-style: double;
+  display: incline-block;
+  overflow: hidden;
+  float:center;
+}
+li{
+  text-align:center;
+}
+ul{
+  color:white;
+}
+header{
+  color:Pink;
+}
